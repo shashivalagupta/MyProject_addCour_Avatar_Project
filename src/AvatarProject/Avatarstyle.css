@@ -1,0 +1,10 @@
+@import url('https://font.googleapis.com/css?family=Gugi');
+.Mainpage{
+  width: 90%;height: 100vh;margin: auto;
+}
+.Mainpage h1{
+    margin: 0;padding: 20px 0;text-align: center;
+}
+.Avatarstyle img{
+    width: 200px; height: 200px;
+}
